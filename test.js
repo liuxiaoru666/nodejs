@@ -1,2 +1,1 @@
-var myPackage = require('lxr-test-package');
-myPackage.showHello();
+//我是通 过fs.writeFile 写入文件的内容
